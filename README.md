@@ -1,29 +1,34 @@
-# React Nice Resume :page_with_curl:
+# React JS Landing Page Template
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+**
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+**
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+## Description
+This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+All 'visual' data can be easily modified by changing the data.json file.
 
-# Run Project
-### 1. Clone the project
+## Make it Yours!
+### 1. Preps
+You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
 
-### 2. Run the project
-```shell
-npm i
-npm start
-```
+### 2. Clone Files
+After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
+### 3. Add your own data 
+Change the data in the ```data.json``` file as well as add any images to ```public/img/```
+You can also change styles by modifying the ```public/css``` files.
 
-### 3. Build
-```shell
-npm run build
-```
+
+## Like this project?
+<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+
+## Credits
+##### Free CSS 
+<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+
+##### Issaaf kattan
